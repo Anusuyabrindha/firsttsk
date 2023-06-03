@@ -1,4 +1,4 @@
 """this is simple addition program"""
-X=6
+X=23
 Y=7
 print(X+Y)
